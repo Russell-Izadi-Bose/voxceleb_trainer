@@ -1,3 +1,3 @@
 [submodule "RawNet3"]
-	path = data/RawNet3
-	url = https://huggingface.co/jungjee/RawNet3
+	path = RawNet3
+	url = ttps://huggingface.co/jungjee/RawNet3
